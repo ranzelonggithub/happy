@@ -1,5 +1,6 @@
 <?php
 echo 'php';
 echo 'new branch';
-echo 'fast forward';
+echo 'no fast forward';
+
 ?>
